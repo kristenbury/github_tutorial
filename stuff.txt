@@ -6,3 +6,5 @@ AWESOME FEATURE!!11111
 blash blah blasdjofhaskljdfnasl
 
 new development feature
+
+new feature is now stable
